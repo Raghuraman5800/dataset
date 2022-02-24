@@ -1,0 +1,17 @@
+var store = {
+        coffee_maker: {
+                id: 'coffee_maker',
+                description: "The last coffee maker you'll ever need!",
+                price: 5,
+        },
+        mountain_bike: {
+                id: 'mountain_bike',
+                description: 'The fastest mountain bike around!',
+                price: 10,
+        },
+        tv: {
+                id: 'tv',
+                description: 'A big 26 inch TV',
+                price: 15,
+        },
+}
